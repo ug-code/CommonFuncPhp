@@ -32,10 +32,10 @@ eval("?> ".$incmyscript);
 ?>
 ```
 Method3
---
+```sh
 $remote =file_get_contents("https://raw.githubusercontent.com/ug-code/CommonFuncPhp/master/functions.global.php");
 eval("?> ".$remote);
-
+```
 
 Turkish Note:
 --
