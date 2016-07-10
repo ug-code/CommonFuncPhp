@@ -15,7 +15,7 @@ include('https://raw.githubusercontent.com/ug-code/CommonFuncPhp/master/function
 Turkish Note:
 --
 ```sh
-Amac her projede sık foksiyonları uzaktan çagırmak hem alandan tasarruf hem zamandan.
+Amac her projede sık kullanılan foksiyonları uzaktan çagırmak hem alandan tasarruf hem zamandan.
 
 Bu yöntem zafiyetlere yol açabilir uygularken güvenlik önlemlerinizi alın.
 ```
